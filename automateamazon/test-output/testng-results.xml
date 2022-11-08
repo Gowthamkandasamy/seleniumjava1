@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-03T15:44:53 IST" name="Default suite" finished-at="2022-11-03T15:45:01 IST" duration-ms="7860">
+    <groups>
+    </groups>
+    <test started-at="2022-11-03T15:44:53 IST" name="Default test" finished-at="2022-11-03T15:45:01 IST" duration-ms="7860">
+      <class name="amazon.automateamazon.Execution">
+        <test-method is-config="true" signature="beforepre()[pri:0, instance:amazon.automateamazon.Execution@6e6f2380]" started-at="2022-11-03T15:44:53 IST" name="beforepre" finished-at="2022-11-03T15:44:57 IST" duration-ms="4356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforepre -->
+        <test-method signature="siginpage()[pri:0, instance:amazon.automateamazon.Execution@6e6f2380]" started-at="2022-11-03T15:44:57 IST" name="siginpage" finished-at="2022-11-03T15:45:01 IST" duration-ms="3451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- siginpage -->
+      </class> <!-- amazon.automateamazon.Execution -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
